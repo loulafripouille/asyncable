@@ -8,11 +8,11 @@ Because I need a wrapper for catching errors from an Express middleware using as
 
 ### .middleware(function)
 
-Where function returns a promise and accept `req`, `res`, `next` arguments.
+Where function returns a promise and accepts `req`, `res`, `next` arguments.
 
 ### .paramMiddleware(function)
 
-Where function returns a promise and accept `req`, `res`, `next` and `value` arguments.
+Where function returns a promise and accepts `req`, `res`, `next` and `value` arguments.
 
 ## Usage example
 
