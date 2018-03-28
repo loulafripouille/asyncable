@@ -1,5 +1,5 @@
 {
-  "name": "asyncable",
+  "name": "express-asyncable",
   "version": "0.1.0",
   "description": "Wrap async/await middleware function for Express. Catches error and passes it to next.",
   "main": "lib/index.js",
