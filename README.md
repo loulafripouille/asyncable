@@ -2,6 +2,7 @@
 Wrap async/await middleware function for Express. Catches error and passes it to next.
 
 [![Build Status](https://travis-ci.org/laudeon/asyncable.svg?branch=master)](https://travis-ci.org/laudeon/asyncable)
+[![npm version](https://badge.fury.io/js/express-asyncable.svg)](https://badge.fury.io/js/express-asyncable)
 
 ## Why?
 Because I need a wrapper for catching errors from an Express middleware using async/await function. I also need to wrap Express param middleware which is using a different signature (req, res, next, value).
