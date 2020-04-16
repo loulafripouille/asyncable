@@ -10,6 +10,6 @@
   "author": "laudeon <louis.audeon@mail.be>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^25.3.0"
   }
 }
