@@ -1,6 +1,6 @@
 {
   "name": "express-asyncable",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Wrap async/await middleware function for Express. Catches error and passes it to next.",
   "main": "lib/index.js",
   "scripts": {
